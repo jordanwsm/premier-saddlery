@@ -17,9 +17,9 @@ const MyNav = () => {
                     }}}
                      />
                 <Navbar.Collapse id="responsive-navbar-nav" >
-                    <Nav className="navbar-nav ml-auto mx-auto">
+                    <Nav className="navbar-nav ml-auto">
                         <Nav.Link href="#home">HOME</Nav.Link>
-                        <Nav.Link href="#about">ABOUT</Nav.Link>
+                        <Nav.Link href="#about">SERVICES</Nav.Link>
                         <Nav.Link href="#contact">CONTACT</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>

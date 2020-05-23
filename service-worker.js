@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/premier-saddlery/precache-manifest.d204f5c86d35ba4e06cc5cbf58808178.js"
+  "/premier-saddlery/precache-manifest.a0185018a5d9603c2625f08e8b00acd8.js"
 );
 
 self.addEventListener('message', (event) => {

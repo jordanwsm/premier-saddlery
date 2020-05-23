@@ -1,24 +1,33 @@
 {
   "files": {
-    "main.css": "/premier-saddlery/static/css/main.bd78ed92.chunk.css",
-    "main.js": "/premier-saddlery/static/js/main.28a55ef8.chunk.js",
-    "main.js.map": "/premier-saddlery/static/js/main.28a55ef8.chunk.js.map",
+    "main.css": "/premier-saddlery/static/css/main.0d0d948e.chunk.css",
+    "main.js": "/premier-saddlery/static/js/main.bb284d09.chunk.js",
+    "main.js.map": "/premier-saddlery/static/js/main.bb284d09.chunk.js.map",
     "runtime-main.js": "/premier-saddlery/static/js/runtime-main.075e997b.js",
     "runtime-main.js.map": "/premier-saddlery/static/js/runtime-main.075e997b.js.map",
-    "static/js/2.8b8b15cf.chunk.js": "/premier-saddlery/static/js/2.8b8b15cf.chunk.js",
-    "static/js/2.8b8b15cf.chunk.js.map": "/premier-saddlery/static/js/2.8b8b15cf.chunk.js.map",
+    "static/js/2.7dce4416.chunk.js": "/premier-saddlery/static/js/2.7dce4416.chunk.js",
+    "static/js/2.7dce4416.chunk.js.map": "/premier-saddlery/static/js/2.7dce4416.chunk.js.map",
     "index.html": "/premier-saddlery/index.html",
-    "precache-manifest.d204f5c86d35ba4e06cc5cbf58808178.js": "/premier-saddlery/precache-manifest.d204f5c86d35ba4e06cc5cbf58808178.js",
+    "precache-manifest.a0185018a5d9603c2625f08e8b00acd8.js": "/premier-saddlery/precache-manifest.a0185018a5d9603c2625f08e8b00acd8.js",
     "service-worker.js": "/premier-saddlery/service-worker.js",
-    "static/css/main.bd78ed92.chunk.css.map": "/premier-saddlery/static/css/main.bd78ed92.chunk.css.map",
-    "static/js/2.8b8b15cf.chunk.js.LICENSE.txt": "/premier-saddlery/static/js/2.8b8b15cf.chunk.js.LICENSE.txt",
+    "static/css/main.0d0d948e.chunk.css.map": "/premier-saddlery/static/css/main.0d0d948e.chunk.css.map",
+    "static/js/2.7dce4416.chunk.js.LICENSE.txt": "/premier-saddlery/static/js/2.7dce4416.chunk.js.LICENSE.txt",
+    "static/media/baileys.jpg": "/premier-saddlery/static/media/baileys.2197aa56.jpg",
+    "static/media/blugrass.jpg": "/premier-saddlery/static/media/blugrass.5e1f654e.jpg",
+    "static/media/collar2.jpg": "/premier-saddlery/static/media/collar2.9ba2981e.jpg",
+    "static/media/gain-logo.png": "/premier-saddlery/static/media/gain-logo.6685ff59.png",
     "static/media/home.style.css": "/premier-saddlery/static/media/imgTwo.62041c45.jpg",
-    "static/media/index.jpg": "/premier-saddlery/static/media/index.77718ca8.jpg"
+    "static/media/index.jpg": "/premier-saddlery/static/media/index.77718ca8.jpg",
+    "static/media/rug.jpg": "/premier-saddlery/static/media/rug.87673a02.jpg",
+    "static/media/saddle.JPG": "/premier-saddlery/static/media/saddle.8c751ecf.JPG",
+    "static/media/spillers.JPG": "/premier-saddlery/static/media/spillers.84df63d1.JPG",
+    "static/media/sqp.jpg": "/premier-saddlery/static/media/sqp.8f97ed49.jpg",
+    "static/media/worm_egg_count.jpg": "/premier-saddlery/static/media/worm_egg_count.9f57d66a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.075e997b.js",
-    "static/js/2.8b8b15cf.chunk.js",
-    "static/css/main.bd78ed92.chunk.css",
-    "static/js/main.28a55ef8.chunk.js"
+    "static/js/2.7dce4416.chunk.js",
+    "static/css/main.0d0d948e.chunk.css",
+    "static/js/main.bb284d09.chunk.js"
   ]
 }
